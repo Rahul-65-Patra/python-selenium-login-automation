@@ -40,7 +40,6 @@ python -c "import selenium; print(selenium.__version__)"
 ---
 
 ### Install Selenium (Offline Using .whl File)
-Install Selenium (Offline Using .whl File)
 
 Steps:
 1. Download
